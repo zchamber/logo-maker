@@ -1,7 +1,7 @@
 
-    <svg width="190" height="190" xmlns="http://www.w3.org/2000/svg">
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
       <rect width="100%" height="100%" fill="white"/> <!-- Background rectangle to cover the entire SVG canvas -->
-      <polygon points="100,0 0,190 190,190" fill="blue"/>
-      <text x="95" y="95" fill="white" font-size="50" text-anchor="middle" dy=".5em">svg</text>
+      <rect width="200" height="200" fill="black"/>
+      <text x="100" y="100" fill="green" font-size="50" text-anchor="middle" dy=".5em">sgv</text>
     </svg>
   
